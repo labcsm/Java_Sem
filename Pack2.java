@@ -1,4 +1,3 @@
-package p2;
 import p1.*;
 
 class Derived extends Pack1
