@@ -62,7 +62,7 @@ class Thread03 extends Thread
 		System.out.println("Odd Number,Cube of "+val+" : "+val*val*val);
 	}
 }
-class Thread3
+class ThreeThreads
 {
 	public static void main(String args[])
 	{
