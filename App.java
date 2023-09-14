@@ -10,6 +10,6 @@ g.drawString("welcome to applet",150,150);
   
 }  
 /* 
-<applet code="First1.class" width="300" height="300"> 
+<applet code="App.class" width="300" height="300"> 
 </applet> 
 */
